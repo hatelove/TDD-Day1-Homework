@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAdder", "ListAdder\ListAdder.csproj", "{3345FFF5-09E7-4DE8-85A0-BE2661452B49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAdderTests", "ListAdderTests\ListAdderTests.csproj", "{A6A413BF-D32A-45D9-95A1-90AC7C6D29E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3345FFF5-09E7-4DE8-85A0-BE2661452B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3345FFF5-09E7-4DE8-85A0-BE2661452B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3345FFF5-09E7-4DE8-85A0-BE2661452B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3345FFF5-09E7-4DE8-85A0-BE2661452B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A413BF-D32A-45D9-95A1-90AC7C6D29E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A413BF-D32A-45D9-95A1-90AC7C6D29E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A413BF-D32A-45D9-95A1-90AC7C6D29E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A413BF-D32A-45D9-95A1-90AC7C6D29E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
